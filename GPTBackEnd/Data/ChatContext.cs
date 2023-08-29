@@ -16,8 +16,8 @@ namespace GPTBackEnd.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            string endpointURL = "";
-            string primaryKey = "";
+            string endpointURL = "https://gptava.documents.azure.com:443/";
+            string primaryKey = "BW3wsteDWaDWjnmvxL8E7BVCFrGrap5aSRpAsVcADmmKULLexzuq8cbyddpaLW6unsHPsXnSZ7C7ACDbnM9hrA==";
             string databaseName = "avagpt";
             optionsBuilder.UseCosmos(endpointURL, primaryKey, databaseName);
         }
