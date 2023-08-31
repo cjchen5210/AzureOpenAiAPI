@@ -170,3 +170,5 @@ C:\Users\wenjie.c.chen\CRMplayground\GPTBackEnd\AzureOpenAiAPI\GPTBackEnd\obj\De
 C:\Users\wenjie.c.chen\CRMplayground\GPTBackEnd\AzureOpenAiAPI\GPTBackEnd\obj\Debug\net6.0\GPTBackEnd.pdb
 C:\Users\wenjie.c.chen\CRMplayground\GPTBackEnd\AzureOpenAiAPI\GPTBackEnd\obj\Debug\net6.0\GPTBackEnd.genruntimeconfig.cache
 C:\Users\wenjie.c.chen\CRMplayground\GPTBackEnd\AzureOpenAiAPI\GPTBackEnd\obj\Debug\net6.0\ref\GPTBackEnd.dll
+C:\Users\wenjie.c.chen\CRMplayground\GPTBackEnd\AzureOpenAiAPI\GPTBackEnd\bin\Debug\net6.0\Azure.AI.OpenAI.dll
+C:\Users\wenjie.c.chen\CRMplayground\GPTBackEnd\AzureOpenAiAPI\GPTBackEnd\bin\Debug\net6.0\TiktokenSharp.dll
